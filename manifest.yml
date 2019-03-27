@@ -7,5 +7,7 @@ applications:
   memory: 512MB
   domain: eu-gb.mybluemix.net
   host: go-web-app-with-gin-aehtn
+  services:
+  - ta0
   env:
     GOPACKAGENAME : gowebappwithginaehtn
