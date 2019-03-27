@@ -9,6 +9,7 @@ import (
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 	"github.com/afex/hystrix-go/hystrix"
 	"github.com/afex/hystrix-go/hystrix/metric_collector"
+	"github.com/watson-developer-cloud/go-sdk/toneanalyzerv3"
 	// "github.com/opentracing/opentracing-go"
 	// "github.com/opentracing/opentracing-go/ext"
 	// "github.com/uber/jaeger-client-go"
